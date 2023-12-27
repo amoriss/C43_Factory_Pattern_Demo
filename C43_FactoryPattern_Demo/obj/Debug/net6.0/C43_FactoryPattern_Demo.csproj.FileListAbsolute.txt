@@ -1,0 +1,15 @@
+C:\Users\amori\Desktop\Repos\C43_FactoryPattern_Demo\C43_FactoryPattern_Demo\bin\Debug\net6.0\C43_FactoryPattern_Demo.exe
+C:\Users\amori\Desktop\Repos\C43_FactoryPattern_Demo\C43_FactoryPattern_Demo\bin\Debug\net6.0\C43_FactoryPattern_Demo.deps.json
+C:\Users\amori\Desktop\Repos\C43_FactoryPattern_Demo\C43_FactoryPattern_Demo\bin\Debug\net6.0\C43_FactoryPattern_Demo.runtimeconfig.json
+C:\Users\amori\Desktop\Repos\C43_FactoryPattern_Demo\C43_FactoryPattern_Demo\bin\Debug\net6.0\C43_FactoryPattern_Demo.dll
+C:\Users\amori\Desktop\Repos\C43_FactoryPattern_Demo\C43_FactoryPattern_Demo\bin\Debug\net6.0\C43_FactoryPattern_Demo.pdb
+C:\Users\amori\Desktop\Repos\C43_FactoryPattern_Demo\C43_FactoryPattern_Demo\obj\Debug\net6.0\C43_FactoryPattern_Demo.csproj.AssemblyReference.cache
+C:\Users\amori\Desktop\Repos\C43_FactoryPattern_Demo\C43_FactoryPattern_Demo\obj\Debug\net6.0\C43_FactoryPattern_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amori\Desktop\Repos\C43_FactoryPattern_Demo\C43_FactoryPattern_Demo\obj\Debug\net6.0\C43_FactoryPattern_Demo.AssemblyInfoInputs.cache
+C:\Users\amori\Desktop\Repos\C43_FactoryPattern_Demo\C43_FactoryPattern_Demo\obj\Debug\net6.0\C43_FactoryPattern_Demo.AssemblyInfo.cs
+C:\Users\amori\Desktop\Repos\C43_FactoryPattern_Demo\C43_FactoryPattern_Demo\obj\Debug\net6.0\C43_FactoryPattern_Demo.csproj.CoreCompileInputs.cache
+C:\Users\amori\Desktop\Repos\C43_FactoryPattern_Demo\C43_FactoryPattern_Demo\obj\Debug\net6.0\C43_FactoryPattern_Demo.dll
+C:\Users\amori\Desktop\Repos\C43_FactoryPattern_Demo\C43_FactoryPattern_Demo\obj\Debug\net6.0\refint\C43_FactoryPattern_Demo.dll
+C:\Users\amori\Desktop\Repos\C43_FactoryPattern_Demo\C43_FactoryPattern_Demo\obj\Debug\net6.0\C43_FactoryPattern_Demo.pdb
+C:\Users\amori\Desktop\Repos\C43_FactoryPattern_Demo\C43_FactoryPattern_Demo\obj\Debug\net6.0\C43_FactoryPattern_Demo.genruntimeconfig.cache
+C:\Users\amori\Desktop\Repos\C43_FactoryPattern_Demo\C43_FactoryPattern_Demo\obj\Debug\net6.0\ref\C43_FactoryPattern_Demo.dll
